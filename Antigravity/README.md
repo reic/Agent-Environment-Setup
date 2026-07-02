@@ -1,4 +1,4 @@
-# Agent環境設定 (Agent Environment Setup Lazy Pack)
+# Antigravity環境設定 (Antigravity Environment Setup Lazy Pack)
 
 本專案是一個專為 Windows 環境下 AI Coding Agent (如 Google Antigravity, Claude Code 等) 打造的**一鍵式環境建置與優化懶人包**。
 
@@ -11,8 +11,8 @@
 Agent環境設定/
 ├── README.md                 # 本安裝說明文件
 └── skills/                  # 預封裝的 AI Agent 專屬技能
-    ├── 04-draw/             # 生圖指引技能
-    └── 05-workflow/         # 開工/收工/專案初始化工作流技能
+    ├── imagedraw/             # 生圖指引技能
+    └── initialwork/         # 開工/收工/專案初始化工作流技能
 ```
 
 ---
@@ -136,7 +136,7 @@ Agent環境設定/
 
 | 日期 | 版本 | 更新內容 |
 |---|---|---|
-| **2026-07-02** | **v1.0** (最新版) | 🚀 專案首版發布。棄用自動化腳本改以純文檔指引安裝。整合系統基礎環境 Winget 檢測安裝指引，支援 NotebookLM MCP、`kepano/obsidian-skills` 官方套件與本專案內置的 `04-draw`、`05-workflow` 技能安裝手冊。 |
+| **2026-07-02** | **v1.0** (最新版) | 🚀 專案首版發布。棄用自動化腳本改以純文檔指引安裝。整合系統基礎環境 Winget 檢測安裝指引，支援 NotebookLM MCP、`kepano/obsidian-skills` 官方套件與本專案內置的 `imagedraw`、`initialwork` 技能安裝手冊。 |
 
 ---
 授權條款：MIT License

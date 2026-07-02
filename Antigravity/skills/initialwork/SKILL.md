@@ -1,5 +1,5 @@
 ---
-name: antigravity-workflow
+name: initialwork
 description: AntiGravity 開工/收工/新專案初始化流程。說「開工」「收工」「初始化專案」時載入。
 ---
 

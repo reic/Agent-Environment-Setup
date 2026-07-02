@@ -1,5 +1,5 @@
 ---
-name: antigravity-draw
+name: imagedraw
 description: AntiGravity 生圖指引。說「生圖」「畫圖」「產生圖片」時載入。
 ---
 
