@@ -12,8 +12,8 @@
 
 ### 1. 🤖 [Google Antigravity](./Antigravity/)
 
-- **特點**：專為 Google Gemini 系列設計的 Coding Agent，具備 `.agents/AGENTS.md` 專案規則載入與 `.agents/skills/` 擴充技能系統。
-- **包含內容**：`.agents/` 目錄專屬配置（`AGENTS.md` 專案規則）、Node/Git/Python/Obsidian Winget 安裝指引、NotebookLM MCP 註冊指南、Steph Ango 官方 `obsidian-skills` 技能包配置，以及專屬的**開工/收工/專案初始化工作流 (workflow) 技能**。
+- **特點**：專為 Google Gemini 系列設計的 Coding Agent，具備 `.agents/AGENTS.md` 安全規則、`ANTIGRAVITY.md` 寫作規範載入與 `.agents/skills/` 擴充技能系統。
+- **包含內容**：專屬配置（`.agents/AGENTS.md` 與 `ANTIGRAVITY.md` 規範檔）、Node/Git/Python/Obsidian Winget 安裝指引、NotebookLM MCP 註冊指南、Steph Ango 官方 `obsidian-skills` 技能包配置，以及專屬的**開工/收工/專案初始化工作流 (workflow) 技能**。
 
 ### 2. 🪐 [Claude Code](./Claude-Code/)
 
