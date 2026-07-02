@@ -1,6 +1,6 @@
 # Claude Code 環境設定 (Claude Code Environment Setup Lazy Pack)
 
-本專案是一個專為 Windows 環境下 Anthropic **Claude Code** CLI 打造的**一鍵式環境建置與優化懶人包**。
+本專案是一個專為 Windows 環境下 Anthropic **Claude Code** 打造的**一鍵式環境建置與優化懶人包**。
 
 本懶人包不使用任何自動化指令碼（如 Shell Script 或 PowerShell 腳本），而是透過**純文檔指引與預配置檔案**的方式進行安裝，避開指令碼執行權限與安全性問題。請依照本說明書，依序檢查系統環境並完成設定。
 
